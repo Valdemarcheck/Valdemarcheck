@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Valdemarcheck
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on making my own fun mini projects
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning vanilla JS, CSS and HTML
 - 📫 How to reach me: valekzhaninvladimir58@gmail.com (email)
 
 <!---
