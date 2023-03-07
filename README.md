@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Valdemarcheck
-- 👀 I’m interested in Front-end development
+- 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning vanilla JS, CSS and HTML
 - 📫 How to reach me: valekzhaninvladimir58@gmail.com (email)
 
